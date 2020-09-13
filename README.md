@@ -1,6 +1,6 @@
 # Group chat app
 
-A flutter group chat app developed that uses firebase.
+A flutter group chat app that uses firebase.
 
 Features:
 - Register
